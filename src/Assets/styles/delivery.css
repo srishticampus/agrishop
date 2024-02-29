@@ -1,0 +1,22 @@
+.form1{
+    margin-left: 500px;
+}
+.divforTwohead{
+float: left;
+font-weight: bold;
+position: absolute;
+left:400px;
+}
+.sepButton{
+    background-color: lightgreen;
+    border-color: green;
+    padding: 20px;
+    margin: 20px;
+}
+.divDown{
+    margin-top: 100px;
+}
+.imgInDiv{
+    height: 250px;
+    width: 250px;
+}
